@@ -1,0 +1,15 @@
+import time
+f = open('4.txt','w')
+f.write("我不喜欢这样，但现实就是这样")
+f.close()
+f=open('4.txt','a')
+f.write("你到底想要甚/n我也不知道我想要甚")
+f.close()
+print("写入成功")
+print('正在努力读取')
+time.sleep(3)
+
+f=open("4.txt",'r')
+a=f.read(1024)
+print("读取到的是：%s"%a)
+f.close()
