@@ -1,0 +1,14 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v156)
+"   /home/mayuxing/桌面/2_1805/02day
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+1-类.py
+2-人类.py
+3-猫类.py
+4-人.py
+5-烤地瓜.py
