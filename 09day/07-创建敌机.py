@@ -8,7 +8,7 @@ screen = pygame.display.set_mode((480, 700))
 #把图片加载进来
 bg =pygame.image.load("./images/bg.png")
 #把图片加载进来
-hero =pygame.image.load("./images/hero1.png")
+hero =pygame.image.load("./images/001.png")
 
 rect = pygame.Rect(150,500,102,126)
 
